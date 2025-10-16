@@ -1,0 +1,8 @@
+/* Copy all the CSS from the style tag in the HTML */
+:root {
+    --primary: #2e7d32;
+    --primary-dark: #1b5e20;
+    /* ... all your CSS variables and styles ... */
+}
+
+/* All your existing CSS goes here */
